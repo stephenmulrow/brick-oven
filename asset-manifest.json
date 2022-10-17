@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/brick-oven/static/css/main.40538967.css",
+    "main.css": "/brick-oven/static/css/main.e260e24c.css",
     "main.js": "/brick-oven/static/js/main.fe2748e7.js",
     "index.html": "/brick-oven/index.html",
-    "main.40538967.css.map": "/brick-oven/static/css/main.40538967.css.map",
+    "main.e260e24c.css.map": "/brick-oven/static/css/main.e260e24c.css.map",
     "main.fe2748e7.js.map": "/brick-oven/static/js/main.fe2748e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.40538967.css",
+    "static/css/main.e260e24c.css",
     "static/js/main.fe2748e7.js"
   ]
 }
